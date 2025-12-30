@@ -1,0 +1,7 @@
+streamlit
+numpy
+matplotlib
+brian2
+librosa
+soundfile
+
